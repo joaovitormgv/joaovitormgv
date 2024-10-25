@@ -1,6 +1,6 @@
 # 🚀Olá, meu nome é João Vitor!
 
-<strong> Estudante de ciência da computação 3/8 </strong>
+<strong> Estudante de ciência da computação 4/8 </strong>
 
 <div align="center">
   <a href="https://github.com/joaovitormgv">
