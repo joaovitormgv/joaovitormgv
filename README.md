@@ -1,4 +1,4 @@
-# 🚀Olá, meu nome é João Vitor! 
+# 🚀Olá, meu nome é João Vitor!
 
 <strong> Estudante de ciência da computação 3/8 </strong>
 
